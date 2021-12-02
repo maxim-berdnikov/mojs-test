@@ -1,0 +1,16 @@
+{
+  "name": "mojs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mojs/core": "^1.2.1",
+    "@mojs/player": "^1.0.1"
+  }
+}
